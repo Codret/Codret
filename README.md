@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash
 
-<!--
-**Codret/Codret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (MERN Stack)
+💡 I build scalable web apps, dashboards & SaaS products
+🎯 Currently working on: Order Management SaaS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* Frontend: React.js, Tailwind CSS
+* Backend: Node.js, Express.js
+* Database: MongoDB
+* Tools: Git, GitHub, Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Lead Dashboard
+
+* Admin dashboard to track and manage leads
+* Real-time updates with modern UI
+
+### 🛒 E-commerce MERN App
+
+* Full stack shopping platform
+* Auth, cart, payment flow
+
+### 💬 Chat Application
+
+* Real-time messaging using Socket.io
+* Authentication + private chats
+
+---
+
+## 📈 GitHub Stats
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codret\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/akashmaurya-codret
+* Portfolio: https://akashwebdev.vercel.app
+
+---
+
+⭐ “Building real-world products, not just projects”
