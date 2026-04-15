@@ -13,7 +13,7 @@
   <a href="https://akashwebdev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:akash@email.com">
+  <a href="mailto:akash45492@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Codret&style=for-the-badge&color=6E56CF&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -179,7 +179,9 @@ I'm **currently available** for freelance projects and collaborations.
 - 📊 Admin Dashboards & Internal Tools
 - 🤖 AI-Powered Platforms
 
-> 📩 **Have a problem worth solving?** [Let's talk →](https://www.linkedin.com/in/akashmaurya-codret)
+📩 **Have a problem worth solving?**  
+[💬 Chat on WhatsApp →](https://wa.me/917068311385)
+
 
 ---
 
